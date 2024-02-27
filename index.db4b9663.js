@@ -1,0 +1,2 @@
+var t=!0,e=!1,r=void 0;try{for(var a,n=document.querySelectorAll("form input")[Symbol.iterator]();!(t=(a=n.next()).done);t=!0){var l=a.value;!function(t){var e=t.getAttribute("id"),r=document.createElement("LABEL");r.innerHTML=t.getAttribute("name"),r.setAttribute("for",e),r.className="field-label",t.parentNode.append(r)}(l),function(t){var e,r=(e=t.getAttribute("name")).charAt(0).toUpperCase()+e.slice(1);t.setAttribute("placeholder",r)}(l)}}catch(t){e=!0,r=t}finally{try{t||null==n.return||n.return()}finally{if(e)throw r}}
+//# sourceMappingURL=index.db4b9663.js.map
